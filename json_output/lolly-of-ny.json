@@ -1,0 +1,37 @@
+{
+    "format": "CHIP-0007",
+    "name": "lolly of ny",
+    "description": "Most popular in NY",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": "187",
+    "series_total": 420,
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "hair",
+            "value": "hair"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "eyes"
+        },
+        {
+            "trait_type": "weakness",
+            "value": "weakness"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}
