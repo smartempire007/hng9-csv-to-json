@@ -11,14 +11,18 @@
             "trait_type": "gender",
             "value": "Female"
         },
-        {
-            "trait_type": "hair",
-            "value": "hair"
-        },
-        {
-            "trait_type": "red and green  accessories",
-            "value": "red and green  accessories"
-        }
+        [
+            {
+                "trait_type": "hair",
+                "value": "hair"
+            }
+        ],
+        [
+            {
+                "trait_type": "red and green  accessories",
+                "value": "red and green  accessories"
+            }
+        ]
     ],
     "collection": {
         "name": "Zuri NFT tickets for free lunch",

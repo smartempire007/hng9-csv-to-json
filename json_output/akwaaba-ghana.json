@@ -11,34 +11,48 @@
             "trait_type": "gender",
             "value": "Female"
         },
-        {
-            "trait_type": "hair",
-            "value": "hair"
-        },
-        {
-            "trait_type": "eyes",
-            "value": "eyes"
-        },
-        {
-            "trait_type": "teeth",
-            "value": "teeth"
-        },
-        {
-            "trait_type": "clothing",
-            "value": "clothing"
-        },
-        {
-            "trait_type": "accessories",
-            "value": "accessories"
-        },
-        {
-            "trait_type": "expression",
-            "value": "expression"
-        },
-        {
-            "trait_type": "",
-            "value": ""
-        }
+        [
+            {
+                "trait_type": "hair",
+                "value": "hair"
+            }
+        ],
+        [
+            {
+                "trait_type": "eyes",
+                "value": "eyes"
+            }
+        ],
+        [
+            {
+                "trait_type": "teeth",
+                "value": "teeth"
+            }
+        ],
+        [
+            {
+                "trait_type": "clothing",
+                "value": "clothing"
+            }
+        ],
+        [
+            {
+                "trait_type": "accessories",
+                "value": "accessories"
+            }
+        ],
+        [
+            {
+                "trait_type": "expression",
+                "value": "expression"
+            }
+        ],
+        [
+            {
+                "trait_type": "",
+                "value": ""
+            }
+        ]
     ],
     "collection": {
         "name": "Zuri NFT tickets for free lunch",

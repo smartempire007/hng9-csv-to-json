@@ -11,42 +11,66 @@
             "trait_type": "gender",
             "value": "Male"
         },
-        {
-            "trait_type": "hair",
-            "value": "hair"
-        },
-        {
-            "trait_type": "cap",
-            "value": "cap"
-        },
-        {
-            "trait_type": "eyes",
-            "value": "eyes"
-        },
-        {
-            "trait_type": "teeth",
-            "value": "teeth"
-        },
-        {
-            "trait_type": "clothing",
-            "value": "clothing"
-        },
-        {
-            "trait_type": "accessories",
-            "value": "accessories"
-        },
-        {
-            "trait_type": "expression",
-            "value": "expression"
-        },
-        {
-            "trait_type": "strength",
-            "value": "strength"
-        },
-        {
-            "trait_type": "weakness",
-            "value": "weakness"
-        }
+        [
+            {
+                "trait_type": "hair",
+                "value": "hair"
+            }
+        ],
+        [
+            {
+                "trait_type": "cap",
+                "value": "cap"
+            }
+        ],
+        [
+            {
+                "trait_type": "eyes",
+                "value": "eyes"
+            }
+        ],
+        [
+            {
+                "trait_type": "teeth",
+                "value": "teeth"
+            }
+        ],
+        [
+            {
+                "trait_type": "clothing",
+                "value": "clothing"
+            }
+        ],
+        [
+            {
+                "trait_type": "accessories",
+                "value": "accessories"
+            }
+        ],
+        [
+            {
+                "trait_type": "expression",
+                "value": "expression"
+            }
+        ],
+        [
+            {
+                "trait_type": "strength",
+                "value": "strength"
+            }
+        ],
+        [
+            {
+                "trait_type": "weakness",
+                "value": "weakness"
+            }
+        ],
+        [
+            {
+                "trait_type": "",
+                "value": ""
+            }
+        ]
     ],
     "collection": {
         "name": "Zuri NFT tickets for free lunch",

@@ -11,14 +11,18 @@
             "trait_type": "gender",
             "value": "Male"
         },
-        {
-            "trait_type": "hair",
-            "value": "hair"
-        },
-        {
-            "trait_type": "smoking pipe expression",
-            "value": "smoking pipe expression"
-        }
+        [
+            {
+                "trait_type": "hair",
+                "value": "hair"
+            }
+        ],
+        [
+            {
+                "trait_type": "smoking pipe expression",
+                "value": "smoking pipe expression"
+            }
+        ]
     ],
     "collection": {
         "name": "Zuri NFT tickets for free lunch",

@@ -58,10 +58,10 @@ with open(csvData, 'r') as f:
             },
         }
         
-        attrib = [x.split(':') for x in attributes.split(';') if x]
+        attrib = [x.split(':') for x in attributes.split(';')]
                 
-        for i in attrib:
-            chip0007_format['attributes'].append({'trait_type': i[0].strip(), 'value':i[0].strip()})
+        for index in attrib:
+            chip0007_format['attributes'].append([{'trait_type': index[0].strip(), 'value':index[0].strip()}])
 
         # generating a json file for each row in the csv file.
         chip0007_json = json.dumps(chip0007_format, indent=4) # Converting the json file to a string.

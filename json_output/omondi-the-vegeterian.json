@@ -11,10 +11,12 @@
             "trait_type": "gender",
             "value": "Male"
         },
-        {
-            "trait_type": "hair",
-            "value": "hair"
-        }
+        [
+            {
+                "trait_type": "hair",
+                "value": "hair"
+            }
+        ]
     ],
     "collection": {
         "name": "Zuri NFT tickets for free lunch",
